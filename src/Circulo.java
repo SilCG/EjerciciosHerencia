@@ -6,7 +6,6 @@ public class Circulo extends Figura{
     // Métodos
     // Constructor
     public Circulo (double radio){
-        super();
         this.radio = radio;
     }
 
